@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "raj",
+      "email": "john@example.com",
+      "city": "ahb",
+      "password": "12345678"
+    },
+    {
+      "id": "2",
+      "name": "stavan",
+      "email": "stavan@gmail.com",
+      "city": "ahb",
+      "password": "12345678"
+    },
+    {
+      "id": "2c5d",
+      "name": "stavan7",
+      "email": "s@gmail.com",
+      "city": "jgjjgfd",
+      "password": "12345678",
+      "confirmpassword": "12345679"
+    },
+    {
+      "id": "e9ca",
+      "name": "stavant8",
+      "email": "fj@gmail.com",
+      "city": "fglksf",
+      "password": "12345678",
+      "confirmpassword": "12345679"
+    },
+    {
+      "id": "9aab",
+      "name": "stavan",
+      "email": "avan@gmail.com",
+      "city": "dskjjdsf",
+      "password": "12345678",
+      "confirmpassword": "12345678"
+    },
+    {
+      "id": "0ce5",
+      "name": "stavan",
+      "email": "sta@gmail.com",
+      "city": "kdjfdjkf",
+      "password": "12345678",
+      "confirmpassword": "12345678"
+    },
+    {
+      "id": "d89b",
+      "name": "stavan",
+      "email": "sta1@gmail.com",
+      "city": "kdjfdjkf",
+      "password": "12345678",
+      "confirmpassword": "12345678"
+    },
+    {
+      "id": "fa95",
+      "name": "stavan",
+      "email": "sta2@gmail.com",
+      "city": "kdjfdjkf",
+      "password": "12345678",
+      "confirmpassword": "12345678"
+    },
+    {
+      "id": "65fa",
+      "name": "gulu",
+      "email": "gulu@gmail.com",
+      "city": "mdfjdnsj",
+      "password": "12345678",
+      "confirmpassword": "12345678"
+    },
+    {
+      "id": "5db1",
+      "name": "gulu",
+      "email": "ulu@gmail.com",
+      "city": "mdfjdnsj",
+      "password": "12345678",
+      "confirmpassword": "12345678"
+    },
+    {
+      "id": "e469",
+      "name": "ulala",
+      "email": "ulala@gmail.com",
+      "city": "SJDJF",
+      "password": "12345678",
+      "confirmpassword": "12345678"
+    },
+    {
+      "id": "100d",
+      "name": "hello",
+      "email": "ula@gmail.com",
+      "city": "qwdkjwn",
+      "password": "12345678",
+      "confirmpassword": "12345678"
+    },
+    {
+      "id": "f937",
+      "name": "hi",
+      "email": "hi@gmail.com",
+      "city": "fdsjkfnjsd",
+      "password": "87654321",
+      "confirmpassword": "87654321"
+    }
+  ]
+}
